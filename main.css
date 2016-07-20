@@ -1,0 +1,22 @@
+div>div>div{
+	background-color: #395;
+	padding: 10px 30px;	
+}
+
+div>div{
+	background-color: #823;
+	margin: 10px 30px 50px 40px;
+	padding: 10px 30px;
+}
+
+p{
+	border: 2px #403 dashed;
+	font-size: 30px;
+	padding: 20px;
+	background-color: #A5F;
+}
+
+#first{
+	background-color: red;
+	padding: 10px;
+}
